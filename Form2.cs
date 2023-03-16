@@ -23,5 +23,19 @@ namespace Lab09_210042130
             f1.Show();
             this.Hide();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string name = textBox1.Text;
+            string user_name = textBox2.Text;
+            string password = textBox3.Text;
+            int count = password.Length;
+            string retype_pass = textBox4.Text;
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

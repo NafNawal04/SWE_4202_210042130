@@ -23,5 +23,10 @@ namespace Lab09_210042130
             f2.Show();
             this.Hide();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
