@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\Lab09_210042130\bin\Debug\Lab09_210042130.exe.config
+C:\Users\User\Downloads\Lab09_210042130\bin\Debug\Lab09_210042130.exe
+C:\Users\User\Downloads\Lab09_210042130\bin\Debug\Lab09_210042130.pdb
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.Form1.resources
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.Form2.resources
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.Form3.resources
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.Properties.Resources.resources
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.exe
+C:\Users\User\Downloads\Lab09_210042130\obj\Debug\Lab09_210042130.pdb
